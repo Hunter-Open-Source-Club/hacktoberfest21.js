@@ -1,4 +1,4 @@
-# hacktoberfest21.js -- Hunter College's Online Bulletin Board
+# Hunter College's Online Bulletin Board
 
 ## What we're making
 
@@ -14,4 +14,5 @@ To help adjust to our virtual/hybrid learning environment, the Hunter College Co
 
 ---
 
+##### Note that we're prioritizing PR's from Hunter College students or the greater CUNY community.
 For more information, or if you get stuck and need help, go to https://discord.gg/PwrkJYkdAz where GDSC members help you! Feel free to email isabelabonitalla@gmail.com with questions or concerns as well, just add `[Hacktoberfest]` to the subject line. Thanks for your help!!
