@@ -10,7 +10,7 @@ To help adjust to our virtual/hybrid learning environment, the Hunter College Co
 2. In the root directory, do `npm install` to download the backend dependencies.
 3. Go into the client folder with `cd client` and do `npm install` again for the frontend dependencies. 
 4. Go to the Discord server to get the `.env` file from us.
-5. { ... } how to run pls
+5. how to run: Simple run `npm start` in the root directory and it will run frontend on port 3000 and backend on port 3001
 
 ---
 
